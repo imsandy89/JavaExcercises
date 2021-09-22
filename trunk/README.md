@@ -1,2 +1,0 @@
-# JavaExcercises
-Standalone Java Programs
